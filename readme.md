@@ -36,6 +36,12 @@ https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Dark_Web_Ant
 ```
 
 # Table Of Contents
+* [Commercial Services](#commercial-services)
+  * [Drugs](#drugs)
+  * [Pharmacies](#pharmacies)
+  * [Electronics](#electronics)
+  * [Multipurpose](#multipurpose)
+  * [Miscellaneous](#miscellaneous)
 * [Recommended Sites](#recommended-sites)
   * [Official Tor Sites](#official-tor-sites)
 * [Introduction Points](#introduction-points)
@@ -48,12 +54,6 @@ https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Dark_Web_Ant
   * [Bitcoin Mixers](#bitcoin-mixers)
   * [Credit Cards](#credit-cards)
   * [Crytocurrency](#crytocurrency)
-* [Commercial Services](#commercial-services)
-  * [Drugs](#drugs)
-  * [Pharmacies](#pharmacies)
-  * [Electronics](#electronics)
-  * [Multipurpose](#multipurpose)
-  * [Miscellaneous](#miscellaneous)
 * [Non-Commercial Services](#non-commercial-services)
   * [Email](#email)
   * [Hosting](#hosting)
