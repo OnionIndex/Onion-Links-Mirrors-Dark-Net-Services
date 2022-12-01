@@ -1,4 +1,4 @@
-# Awesome Onion Links [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Onion Links [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 For the time being, please go to [this pastebin](https://pastebin.com/VCHK40jV) where I will import the .onion links I saved in the pastebin to here over time.
 
 # FAQ
@@ -102,7 +102,7 @@ https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Dark_Web_Ant
 
 ---
 ## Drugs
-* ![Alphabay](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Alphabay)](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid/register?inv=bff61741d4e27e2c22d283b86b4ea7f1e1c722747e092a0003f10bd15300452e)
+* ![Alphabay] [Alphabay)](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid/register?inv=bff61741d4e27e2c22d283b86b4ea7f1e1c722747e092a0003f10bd15300452e)
 * ![Abacus Market](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Abacus Market)](http://abacusc5fjvbb3qe4olx7tyyt6zjmp5bf3lkxivfcgxcmkn3paw4beid.onion?ref=9j5tpy5s5t)
 * ![ASAP Market](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [ASAP Market]( http://asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion)
 * ![Archetyp Market](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Archetyp Market)](     http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion)
