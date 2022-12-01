@@ -6,7 +6,6 @@
 * [Tor Market](http://rrlm2f22lpqgfhyydqkxxzv6snwo5qvc2krjt2q557l7z4te7fsvhbid.onion)
 * [Bohemia Market](http://bohemiaobbpsjvkexpdpnekqai2ebi32xgr6sbhdpapipv547rm6jhad.onion )
 
-# Recommended Sites
 ## Official Tor Sites
 * ![Home](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Tor Project Home](http://expyuzz4wqqyqhjn.onion/)
 * ![Home](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Tor Project (Mirror)](http://sbe5fi5cka5l3fqe.onion/)
@@ -71,14 +70,6 @@
 * ![Tor Browser Manual](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Tor Browser Manual](http://dgvdmophvhunawds.onion/)
 * ![Tor Browser Bundle Test Data](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Tor Browser Test Data](http://fylvgu5r6gcdadeo.onion/)
 * ![TorStatus](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [TorStatus](https://jlve2y45zacpbz6s.onion/)
-
-# Introduction Points
-## Dark Web Guides
-sites about the dark web and how to use it properly
-* ![The Way Into The Dark Web](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Way Into The Dark Web](http://guideyeb5ew6plwj.onion/)
-* ![The Way Into The Dark Web](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Way Into The Dark Web (Mirror)](http://guideyeb5ew6plwj.onion/)
-* ![Owledge](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/owledge_icon.png) [Owledge](http://owlzyj4to3l5daq6edgsgp5z4lh4tzlnms4z6jv6xdtkily77j4b3byd.onion/)
-* ![The Dark Web Pug](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkwebpug_icon.png) [The Dark Web Pug (Outdated)](http://thedarkwebpugv5m.onion/)
 
 ## Tor Scam Lists
 sites that help people avoid scams on the dark web, as they are VERY common
@@ -227,33 +218,6 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![AgoraDesk](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/agoradesk_icon.png) [AgoraDesk](http://agoradeska6jfxpf.onion/)
 * ![WeBuyBitcoin](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/wbb_icon.png) [We Buy Bitcoins](http://jzn5w5pac26sqef4.onion/)
 
-# Commercial Services
-**ONLY** BUY FROM TRUSTED *VENDORS* TO AVOID GETTING **SCAMMED**      
-**ALWAYS** VERIFY [PGP KEYS](https://www.wikiwand.com/en/Pretty_Good_Privacy) OF *.ONION LINKS* & *BITCOIN WALLETS* BEFORE BUYING, you can quickly do it [here](https://dark.fail/pgp)  
-**ALWAYS** [MIX](https://www.wikiwand.com/en/Cryptocurrency_tumbler) YOUR BITCOINS BEFORE BUYING  
-**I AM NOT RESPONSIBLE IF YOU GET SCAMMED**  
-
-Verify Legit Darkweb Vendors & Markets Via These Sites
-* ![Recon](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/recon_icon.png) [Recon](http://reconponydonugup.onion/)
-* ![DarknetTrust](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [Darknet Trust](http://ohivsd7ze7rgdir4.onion/)
-* ![Hidden Reviews](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/hidrev_icon.png) [Hidden Reviews](http://u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion/)
-
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 2)](http://k6ggxyjcmdy7tv3xwgak4osnygb7yotxoqiwvgjuxp5iopavkicj7bqd.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 3)](http://xgcjbel2wgd2hvlk7bhrvoyy4k5ctmoe2mcmmqjify77kqhwe5oxwgid.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 4)](http://rgamajuhd5kirb7ppuczu64gqhcdimdv7owbknin7tjypx557hhg2xyd.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 5)](http://3uv2nhqozxfun2gxvdg6srqobkk7wobawv7d3dkxiz65wkw2ig3vhqad.onion/)
-* ![Metropolis](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/metropolis_icon.png) [Metropolis Market](http://p5iib2dirlbm5zuizzupmoidm43s6qoyfa3vas5xjrgja4lxapdr22yd.onion/)
-* ![VanillaSurf](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 1)](http://pz6vxxda6k7dp56edb64lmd7q6gb2ram3vyksdcvdeyc74r3uod7zeyd.onion/)
-* ![VanillaSurf](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 2)](http://bp3mm7tdfa4ft2ucjlqiu3w2hkibsm4cpg3hxyoak4oer5gzdzczjwad.onion/)
-* ![VanillaSurf](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 3)](http://5w2u7gtsjg4nu7i4ya6owvadyblsgjsmvrark6g26yglzg6v5b55tsqd.onion/)
-* ![VanillaSurf](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 4)](http://zoe4mqxk6zy3ycgy7tlkrchaqmw3gpxv65hfuhztlshrm2hfnitgoeyd.onion/)
-* ![VanillaSurf](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 5)](http://ylqod3ehjtbvxia3ij33mgcwqgabhpxc3iaty5w73lt6noo7ybw7fuqd.onion/)
-* ![VanillaSurf](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 6)](http://iegsccfx4waxcnhygotbu7i3a4divrlj7xuqbu5lda5o5krr4tyfshyd.onion/)
-* ![VanillaSurf](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 7)](http://fp7bzhthb3sqlyk5vyridxhy3at7xzukoicz27j4xkotooxcmmu4yeyd.onion/)
-* ![VanillaSurf](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 8)](http://d5woreuky65a4rkyuioz2sdckxmmmi4ke3yjjorw6e7cr2r3vmmi2kyd.onion/)
-* ![VanillaSurf](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 9)](http://zgr4w7undatjwh33jdg62nqlrugq7tcdgqidnawvrycguf3agjpj7kqd.onion/)
-* ![VanillaSurf](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/vanillasurf_icon.png) [VanillaSurf (Mirror 10)](http://3xtlctto7succncmyzh567ltt2cwfvh4uwewj3uv63wftayo34jw6ryd.onion/)
-
 ## Pharmacies
 * ![24HoursPPC](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/24hrsppc_icon.png) [24 Hours PPC](http://2c5whdbcb6m2c2xx.onion/)
 
@@ -365,19 +329,6 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![CGI Proxy](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [CGI Proxy](http://x5yd2gfthlfgdqjg.onion/)
 * ![ServNet](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [ServNet](http://servnetshsztndci.onion/)
 * ![FTP Client](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [Anonymous Web FTP Client](http://wtutoxfznz45gf6c.onion/)
-
-## Music
-* ![Deep Web](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/deepwebradio_icon.png) [Deep Web Radio](http://76qugh5bey5gum7l.onion/)
-* ![HFS](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/hfs_icon.png) [HFS](http://wuvdsbmbwyjzsgei.onion/)
-* ![Black Jesus](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [Black Jesus](http://niggervteelq47id.onion/)
-* ![Used2Now](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/used2now_icon.png) [Used2Now](http://used2now7fin3qse.onion/)
-* ![Stream](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/stream_icon.png) [Stream](http://streamtmr46ysxw6.onion/)
-
-## Multipurpose
-* ![Volatile](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/volatile_icon.png) [Volatile](http://vola7ileiax4ueow.onion/)
-* ![KLOS](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [Kaizushi's Little Onion Service](http://kaizushih5iec2mxohpvbt5uaapqdnbluaasa2cmsrrjtwrbx46cnaid.onion/)
-* ![KLOS](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [Kaizushi's Little Onion Service (Clearweb)](https://kloshost.online/)
-* ![Kingdom](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [The Kingdom Of God](http://xt6zo6bcjbrrjyvr.onion/)
 
 ## Miscellaneous
 * ![Simple Bookmarks](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [Simple Bookmarks](http://afajj7x4zfl2d3fc2u7uzxp4iwf4r2kucr5on24xk2hwrssoj7yivhid.onion/)
