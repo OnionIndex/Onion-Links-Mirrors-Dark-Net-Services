@@ -101,6 +101,15 @@ https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Dark_Web_Ant
 * [Donate](#donate)
 
 ---
+## Drugs
+* ![Alphabay](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Alphabay)](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid/register?inv=bff61741d4e27e2c22d283b86b4ea7f1e1c722747e092a0003f10bd15300452e)
+* ![Abacus Market](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Abacus Market)](http://abacusc5fjvbb3qe4olx7tyyt6zjmp5bf3lkxivfcgxcmkn3paw4beid.onion?ref=9j5tpy5s5t)
+* ![ASAP Market](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [ASAP Market]( http://asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion)
+* ![Archetyp Market](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Archetyp Market)](     http://4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion)
+* ![Tor Market](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Tor Market](     http://rrlm2f22lpqgfhyydqkxxzv6snwo5qvc2krjt2q557l7z4te7fsvhbid.onion)
+* ![Bohemia Market](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Bohemia Market]( http://bohemiaobbpsjvkexpdpnekqai2ebi32xgr6sbhdpapipv547rm6jhad.onion )
+
+* 
 # Recommended Sites
 ## Official Tor Sites
 * ![Home](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/torproject_icon.png) [Tor Project Home](http://expyuzz4wqqyqhjn.onion/)
@@ -333,33 +342,6 @@ Verify Legit Darkweb Vendors & Markets Via These Sites
 * ![DarknetTrust](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/tor_icon.png) [Darknet Trust](http://ohivsd7ze7rgdir4.onion/)
 * ![Hidden Reviews](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/hidrev_icon.png) [Hidden Reviews](http://u5lyidiw4lpkonoctpqzxgyk6xop7w7w3oho4dzzsi272rwnjhyx7ayd.onion/)
 
-## Drugs
-* ![BigBlue](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Mirror 1)](http://44v6hk7cm4gowwe2wottcnqgndwkab4qvva2n3gvjk4lrbgmqu5uw2ad.onion/)
-* ![BigBlue](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Mirror 2)](http://7yyhqf23cnzc2vnbeymzwwy4gzxw47e57jfitzaqahzvqlzyejr776ad.onion/)
-* ![BigBlue](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Mirror 3)](http://lnwsu7hcfft5ajpteyvtfbxdf2blwzxfilx5wuewdf76g7srg65voiid.onion/)
-* ![BigBlue](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Mirror 4)](http://e6rtmrtkbrdm7imjb5l5fx6lpia6uozj5g5n2kffh3tje46ktv47x3yd.onion/)
-* ![BigBlue](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Mirror 5)](http://kg42jvyhpekk4q3bskb2ea2qmpmdb4unf2zlen557j365jpoqtbvsyyd.onion/)
-* ![BigBlue](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bigblue_icon.png) [Big Blue Market (Mirror 6)](http://o7te6mf4awkpm2hckohyqr665on2ugntt5iioraayfepcgwidtxm7byd.onion/)
-* ![BitBazaar](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (v2 Mirror 1)](http://bbazaarkntrz5vji.onion/)
-* ![BitBazaar](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (v2 Mirror 2)](http://bbazaarh65l2z4vh.onion/)
-* ![BitBazaar](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (v2 Mirror 3)](http://bbazaarabwzpdzku.onion/)
-* ![BitBazaar](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (v2 Mirror 4)](http://bbazaar54ya5nz7t.onion/)
-* ![BitBazaar](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (v2 Mirror 5)](http://jcjbfbbyqhwmjslo.onion/)
-* ![BitBazaar](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (v2 Mirror 6)](http://5ohwoy6w5dglk7sp.onion/)
-* ![BitBazaar](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (v3 Mirror 1)](http://m5dpljs3yu7dyw5uajko52dtywyt5nrhry4fgzzv7sv4y5jg7afam7ad.onion/)
-* ![BitBazaar](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (v3 Mirror 2)](http://j5c6uwvqxvgw6cqk77z2j6yjikumzlleto3y6yqhg73enxewktmenbqd.onion/)
-* ![BitBazaar](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (v3 Mirror 3)](http://5opwptnuebf4zcpkyfl5pn7cm3icktl4r5appy4zky4cqmedsyzge4yd.onion/)
-* ![BitBazaar](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/bitbazaar_icon.png) [BitBazaar (v3 Mirror 4)](http://shxmvtjq6ikuctj5vk6dx35v7jwsszw4ci47txuowpqbwxnzm4dwpvyd.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v2 Mirror 1)](http://darkevuygggqkqhq.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v2 Mirror 2)](http://darkevuygggqkqhq.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v2 Mirror 3)](http://darkmarkl7f5hz5f.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v2 Mirror 4)](http://darkmarkhbh2xyel.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v3 Mirror 1)](http://darkmarketsomqvzqfjudpd6t5eabgvvpplrbtzq6prervyogenlrlqd.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v3 Mirror 2)](http://darknet3ysxpbjtvbtyqorzuq3bp4pk3vt4fuhqxz6h2bzj2kyjbisqd.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v3 Mirror 3)](http://darknet4rbfizlg53dwc5lt5hj4mewcgltubcpvrfpvjavm64inaf3ad.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v3 Mirror 4)](http://darknet5kpf7i3kulnljiwvf3q4sm2z66kbrdeuxyyhxutyt3inp7fid.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (v3 Mirror 5)](http://7l6nfl2rj3gy7qipdj2yac575wiwli43z6mqxmdoqjtuat7slyrik7qd.onion/)
-* ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 1)](http://wahcoxxucz5ae5akrmenjxufne2ci4lkbw75uxqwf6kjzzorpm7r2ryd.onion/)
 * ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 2)](http://k6ggxyjcmdy7tv3xwgak4osnygb7yotxoqiwvgjuxp5iopavkicj7bqd.onion/)
 * ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 3)](http://xgcjbel2wgd2hvlk7bhrvoyy4k5ctmoe2mcmmqjify77kqhwe5oxwgid.onion/)
 * ![DarkMarket](https://raw.githubusercontent.com/5ky1ar/Awesome-Onion-Links/master/Icons/darkmarket_icon.png) [DarkMarket (Rotating Mirror 4)](http://rgamajuhd5kirb7ppuczu64gqhcdimdv7owbknin7tjypx557hhg2xyd.onion/)
